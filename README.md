@@ -16,6 +16,12 @@ It goes through the following steps:
 
 This isn't set up so that others can easily use it, but mostly for myself to make sure new devices will get the proper patches.
 
+## Requirements
+
+* git
+* curl
+* jq
+
 ## Usage
 
 ```sh
